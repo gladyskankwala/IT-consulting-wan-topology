@@ -1,2 +1,2 @@
 # Medium-Enterprise-network-topology
-Medium enterprise network topology project
+Medium WAN enterprise network topology project
